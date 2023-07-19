@@ -1,6 +1,6 @@
 # Starter pipeline
 - task: GitHubRelease@1
-  inputs:
+ -inputs:
     gitHubConnection: 'GitHub connection 1'
     repositoryName: 'v-soujanya/calculator'
     action: 'create'
